@@ -149,3 +149,28 @@ WHERE city='Pune';
 **Syed Ayaan Jahagirdar**
 
 Cloud | DevOps | AI Enthusiast
+
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### 📚 Retrieved Context
+
+![Context](screenshots/context.png)
+
+---
+
+### 🧠 Generated SQL
+
+![SQL](screenshots/sql.png)
+
+---
+
+### 📊 Query Result
+
+![Result](screenshots/result.png)
