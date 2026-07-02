@@ -1,0 +1,35 @@
+Database Name: Employee Management
+
+Table: employees
+
+Columns:
+
+id INTEGER PRIMARY KEY
+
+name TEXT
+
+age INTEGER
+
+department TEXT
+
+salary INTEGER
+
+city TEXT
+
+Example Questions:
+
+Show all employees.
+
+Show employees from Pune.
+
+Show employees whose salary is greater than 60000.
+
+Show Cloud department employees.
+
+Count employees.
+
+Average salary.
+
+Highest salary.
+
+Lowest salary.
