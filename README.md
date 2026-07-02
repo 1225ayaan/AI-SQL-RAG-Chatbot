@@ -155,22 +155,16 @@ Cloud | DevOps | AI Enthusiast
 
 ### 🏠 Home Page
 
-![Home](screenshots/home.png)
-
----
+![Home](screenshots/home.PNG)
 
 ### 📚 Retrieved Context
 
-![Context](screenshots/context.png)
-
----
+![Context](screenshots/context.PNG)
 
 ### 🧠 Generated SQL
 
-![SQL](screenshots/sql.png)
-
----
+![SQL](screenshots/sql.PNG)
 
 ### 📊 Query Result
 
-![Result](screenshots/result.png)
+![Result](screenshots/result.PNG)
